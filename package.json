@@ -1,0 +1,9 @@
+{
+  "name": "ciam-smart-assistant",
+  "version": "1.0.0",
+  "description": "Auto acknowledgement for GitHub Issues",
+  "main": "acknowledge.js",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
